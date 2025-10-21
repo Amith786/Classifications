@@ -1,3 +1,4 @@
 # Classifications
-Classifications using Machine Learning
+Classifications using Machine Learning.
+<br>
 Author-Amith Anand
